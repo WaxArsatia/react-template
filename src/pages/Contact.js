@@ -1,10 +1,11 @@
 import Navbar from '../components/Navbar';
 
-function Home() {
+function Contact() {
   return (
     <div>
       <Navbar />
+      <p>Contact</p>
     </div>
   );
 }
-export default Home;
+export default Contact;
